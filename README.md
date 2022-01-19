@@ -12,7 +12,7 @@ Create a dashboard to visualize, interact and answer those questions:
 * What is the percentage of death by country? How big is this percentage comparing by continent? And what about the infections?
 * How well each country is doing regarding the vaccination numbers?
 
-## Exploratory Data Analysis and Visualizations
+## Visualizations
 The dashboard is available [here](https://public.tableau.com/app/profile/thiago.pauli/viz/COVID-19Dashboard_16425313314180/Dashboard1)
 * It is possible to filter by continent as well as by country.
 
