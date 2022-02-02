@@ -2,7 +2,7 @@
 
 ## Project Overview
 - Data exploration using PostgreSQL database. The Dataset was taken from [Our World in Data](https://ourworldindata.org/covid-deaths).
-- Using the library pandas and sqlalchemy to create connection and read SQL queries. Acess the code [here](https://github.com/ThiPauli/Covid_19_Exploration/blob/main/covid.ipynb).
+- Using pandas and sqlalchemy libraries to create connection and read SQL queries. Acess the code [here](https://github.com/ThiPauli/Covid_19_Exploration/blob/main/covid.ipynb).
 - Visualization the queries in a dashboard using Tableau.
 
 ## Objectives
