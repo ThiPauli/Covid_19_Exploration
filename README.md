@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19 Data Exploration
 
 ## Project Overview
 - Data exploration using PostgreSQL database. The Dataset was taken from [Our World in Data](https://ourworldindata.org/covid-deaths).
