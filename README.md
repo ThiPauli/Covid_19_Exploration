@@ -1,7 +1,7 @@
 # Covid-19 Data Exploration
 
 ## Project Overview
-- Data exploration using PostgreSQL database. The Dataset was taken from [Our World in Data](https://ourworldindata.org/covid-deaths).
+- Data exploration using PostgreSQL database to answer questions regards infections, deaths and vaccinations. The Dataset was taken from [Our World in Data](https://ourworldindata.org/covid-deaths).
 - Using pandas and sqlalchemy libraries to create connection and read SQL queries. Acess the code [here](https://github.com/ThiPauli/Covid_19_Exploration/blob/main/covid.ipynb).
 - Visualization the queries in a dashboard using Tableau.
 
